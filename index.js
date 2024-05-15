@@ -18,7 +18,7 @@ const isWork = false;
 // створіть змінну, яка зберігає ваш зріст в метрах 1.84
 
 const myHeight = 1.84;
-console.log:(myHeight);
+console.log(myHeight);
 
 // чи є машина?
 
